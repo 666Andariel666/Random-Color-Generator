@@ -15,7 +15,7 @@
 // console.log(Object.entries(car));
 // console.log(Object.values(car));
 // console.log(Object.keys(car));
-
+alert("Just Click On the Screen")
 let box = document.querySelector('body')
 let colorName = document.querySelector('.color-name');
 function getRandomColor(){
